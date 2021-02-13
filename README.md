@@ -1,4 +1,4 @@
-# minesweeper
+# minesweeper Javascript
 UI Assignment - Simplified Minesweeper
 
 Implement a simplified game of minesweeper using HTML+CSS+JavaScript. It comprises of  an m*n grid with x number of hidden mines placed randomly on the grid. The user plays a guessing game of clicking cells on the grid as per the following rules:
